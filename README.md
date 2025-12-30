@@ -39,10 +39,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/Kunj-Portfolio
+git clone https://github.com/sohansarkar07/ss.dev
 
 # 2️⃣ Navigate to project directory
-cd Kunj-Portfolio
+cd Sohan.dev
 
 # 3️⃣ Install dependencies
 npm install
