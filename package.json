@@ -5,7 +5,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepare": "chmod +x node_modules/.bin/vite"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "dependencies": {
     "d3": "^7.9.0",
