@@ -8,13 +8,13 @@ const IMAGES = {
     {
       id: 1,
       caption: "Build on CELO Workshop",
-      photos: ["dist/gallery/celo1.jpeg", "dist/gallery/celo2.jpeg","dist/gallery/celo3.jpeg"],
+      photos: ["/gallery/celo1.jpeg", "/gallery/celo2.jpeg","/gallery/celo3.jpeg"],
     },
     {
       id: 2,
       caption:
         "A Deep Dive From ML To Agentic Systems & Decoding RAG--First AI/ML Workshop by GDG NiT",
-      photos: ["dist/gallery/ai1.jpeg", "dist/gallery/ai2.jpeg","dist/gallery/ai3.jpeg","dist/gallery/ai4.jpeg","dist/gallery/ai5.jpeg","dist/gallery/ai6.jpeg","dist/gallery/ai7.jpeg","dist/gallery/ai8.jpeg","dist/gallery/ai9.jpeg","dist/gallery/ai11.jpeg","dist/gallery/ai10.jpeg"],
+      photos: ["/gallery/ai1.jpeg", "/gallery/ai2.jpeg","/gallery/ai3.jpeg","/gallery/ai4.jpeg","/gallery/ai5.jpeg","/gallery/ai6.jpeg","/gallery/ai7.jpeg","/gallery/ai8.jpeg","/gallery/ai9.jpeg","/gallery/ai11.jpeg","/gallery/ai10.jpeg"],
     },
   ],
   projects: [
@@ -31,7 +31,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "From 12 hours of nonstop editing to 2 sleepless nights and then watching our own film play in front of everyone... surreal....Our film finally made it to the Top 4 among teams from Calcutta University and Heritage Institute of Technology in NiT-LiT . Hard work truly pays off 🎬💥!",
-      photos: ["dist/gallery/nitlit1.jpeg","dist/gallery/nitlit2.jpeg","dist/gallery/nitlit3.jpeg","dist/gallery/nitlit4.jpeg"],
+      photos: ["/gallery/nitlit1.jpeg","/gallery/nitlit2.jpeg","/gallery/nitlit3.jpeg","/gallery/nitlit4.jpeg"],
     },
     
   ],
