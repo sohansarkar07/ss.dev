@@ -8,7 +8,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "Build on CELO Workshop",
-      photos: ["/gallery/celo1.jpeg", "/gallery/celo2.jpeg","/gallery/celo3.jpeg"],
+      photos: ["dist/gallery/celo1.jpeg", "dist/gallery/celo2.jpeg","dist/gallery/celo3.jpeg"],
     },
     {
       id: 2,
