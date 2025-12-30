@@ -6,7 +6,7 @@ const PROJECTS = [
   {
     title: '🤖 RAG Chat Assistant',
     desc: 'A simple RAG (Retrieval-Augmented Generation chatbot , Chat Interface for asking questions about course content) .',
-    ss: 'dist/RAG.jpeg',
+    ss: '/RAG.jpeg',
     tech: ['Python', 'Streamlit', 'Groq LLM'],
     live: 'https://rag-chat-assistant-yvkddjcmrdnnwamkgz5bck.streamlit.app/',
     code: 'https://github.com/sohansarkar07/RAG-Chat-Assistant'
@@ -14,7 +14,7 @@ const PROJECTS = [
   {
     title: '🤖 Sohan AI - Chat Assistant',
     desc: 'SOHAN AI integrates with the Groq API to provide a chat interface where users can interact with advanced language models. ',
-    ss: 'dist/Sohan ai.jpeg',
+    ss: '/Sohan ai.jpeg',
     tech: ['Python', 'Groq API', 'Streamlit'],
     live: 'https://sohanai-7s9efvnt2ebupkjsqvtqh8.streamlit.app/',
     code: 'https://github.com/sohansarkar07/SOHAN_AI'
