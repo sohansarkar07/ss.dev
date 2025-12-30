@@ -5,7 +5,8 @@ import '../index.css'
 
 
 // 🖼️ Import Assets
-import photo from 'D:/portfolio 1/public/photo.jpg'
+<img src="/photo.jpg" alt="Profile" />
+
 import githubLogo from '../../public/github.png'
 import linkedinLogo from '../../public/linkedin.png'
 import gmailLogo from '../../public/gmail.png'
